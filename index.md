@@ -1,7 +1,9 @@
 ---
 title: Welcome to my blog
 ---
+STORY
 ---
-My story
+CHARACTOR
 ---
-
+PHOTOS
+---
