@@ -1,10 +1,11 @@
-“`
+...
+`
 |AGE|HEIGHT|WEIGHT|EYE COLOR|HAIR COLOR|
 |:—:|:————:|:————:|:———————:|:————————:|
 |16 |167---| 10    |
 |---|------| 20    |
 |---|------| 30    |
-“`
+`
 ...
 <Bueaty>
 S-T0: x = 100'  //eg:Lin Wenwen, Bing Chan, Lin Fei
